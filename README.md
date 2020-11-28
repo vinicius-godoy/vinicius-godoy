@@ -9,5 +9,5 @@
 |---|---|---|---|---|---|
 
 #### Stats :computer: 
-<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=LeSecretWeapon&theme=default&show_icons=true" />
-<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeSecretWeapon&hide=html&layout=compact&show_icons=true" />
+<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=vinicius-godoy&theme=default&show_icons=true" />
+<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-godoy&hide=html&layout=compact&show_icons=true" />
