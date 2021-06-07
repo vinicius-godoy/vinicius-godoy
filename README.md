@@ -14,6 +14,5 @@
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp logo" width="23">](https://en.cppreference.com/w/) | [<img src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22-768x768.png" alt="c logo" width="28">](https://en.cppreference.com/w/) | [<img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="arduino logo" width="28">](https://www.arduino.cc/) |                                                              |                                                              |
 
 #### Stats :computer: 
-<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=vinicius-godoy&theme=default&show_icons=true" />
-</br>
 <img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-godoy&hide=html&layout=compact&show_icons=true" />
+<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=vinicius-godoy&theme=default&show_icons=true" />
