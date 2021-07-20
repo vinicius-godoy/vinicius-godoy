@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Hello
 
-I am Vinícius, Analysis and System Development Brazilian (:brazil:) student at [Fatec](https://fatecrl.edu.br/), passionate about computers and programming e aspiring to be a FullStack Developer. I'm currently learning React and NextJS and making projects using HTML, CSS, JavaScript and Ruby. I enjoy solving coding problems and learning about technology.
+I am Vinícius, Analysis and System Development Brazilian (:brazil:) student at [Fatec](https://fatecrl.edu.br/), passionate about computers and programming and aspiring to be a FullStack Developer. I'm currently learning React and NextJS and making projects using HTML, CSS, JavaScript and Ruby. I enjoy solving coding problems and learning about technology.
 In my free time I enjoy playing videogames, watching series and listening to music.
 
 ## <div align="center">TechStack</div>
