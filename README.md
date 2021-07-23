@@ -22,8 +22,7 @@ In my free time I enjoy playing videogames, watching series and listening to mus
 
 ## Stats 
 <div align="center">
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=vinicius-godoy&theme=dracula&show_icons=true" />
-<br/>
-<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-godoy&hide=html&theme=dracula&layout=compact&show_icons=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vinicius-godoy&theme=dracula&show_icons=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-godoy&hide=html&theme=dracula&layout=compact&show_icons=true" />
 </div>
 
