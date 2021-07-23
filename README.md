@@ -15,8 +15,8 @@ In my free time I enjoy playing videogames, watching series and listening to mus
 
 ## <div align="center">Contact Me</div>
 <div align="center">
-<img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-godoy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:v.godoyrodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <div align="center">
 
 ## Stats 
