@@ -9,14 +9,22 @@ In my free time I enjoy playing videogames, watching series and listening to mus
   <img src="https://img.shields.io/badge/TypeScript-1962E0?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node-0DD62E?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-D6A70D?style=for-the-badge&logo=Firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-232C34?style=for-the-badge&logo=GNUBash&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
 
 ## <div align="center">Contact Me</div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/-vinicius-godoy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:v.godoyrodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/-vinicius-godoy/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:v.godoyrodrigues@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 <div align="center">
 
 ## Stats 
