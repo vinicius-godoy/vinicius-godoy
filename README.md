@@ -5,12 +5,12 @@ In my free time I enjoy playing videogames, watching series and listening to mus
 
 ## <div align="center">TechStack</div>
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-1962E0?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-1962E0?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node-0DD62E?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-D6A70D?style=for-the-badge&logo=Firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
 
 ## <div align="center">Contact Me</div>
