@@ -5,7 +5,6 @@ I am a Brazilian Fullstack Developer (🇧🇷) currently working as the Tech Le
 ## <div align="center">TechStack</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Node-0DD62E?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-1962E0?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-232C34?style=for-the-badge&logo=GNUBash&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB">
