@@ -17,8 +17,8 @@ I am a Brazilian Fullstack Developer (🇧🇷) currently working as the Tech Le
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:v.godoyrodrigues@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:contact@viniciusgodoy.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=email&logoColor=white">
   </a>
 <div align="center">
 
